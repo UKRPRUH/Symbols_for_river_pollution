@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="21.1666mm" height="21.1666mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2117 2117"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#008CCC;stroke-width:67.73}
+    .str3 {stroke:#008CCC;stroke-width:16.93}
+    .str1 {stroke:#008CCC;stroke-width:16.93}
+    .str0 {stroke:black;stroke-width:20}
+    .fil2 {fill:none}
+    .fil0 {fill:white}
+    .fil3 {fill:#008CCC}
+    .fil1 {fill:#008CCC;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <ellipse class="fil0 str0" cx="1042" cy="1042" rx="947" ry="966"/>
+  <path class="fil1 str1" d="M2100 1050c0,-575 -467,-1042 -1042,-1042 -575,0 -1041,467 -1041,1042 0,575 466,1041 1041,1041 575,0 1042,-466 1042,-1041zm-116 0c0,511 -415,925 -926,925 -511,0 -925,-414 -925,-925 0,-511 414,-926 925,-926 511,0 926,415 926,926z"/>
+  <path class="fil2 str2" d="M175 1321l373 0 80 315 24 70 36 61 46 20 121 0 487 0 42 -16 31 -35 27 -78 29 -112 58 -225 412 0"/>
+  <path class="fil3" d="M629 1612l-67 -231 77 62 30 -7 48 -47 63 48 23 7 21 -2 52 -57 80 58 23 -3 59 -55 65 56 32 9 57 -67 75 60 32 -8 50 -49 68 60 25 -3 65 -55 -67 269 -11 31 -16 46 -11 12 -21 23 -20 8 -638 5 -32 -24 -24 -24 -20 -55 -18 -67z"/>
+  <g id="_1805097837952">
+   <path class="fil1 str3" d="M1558 1099l337 0 -169 -168 -168 168zm168 0m84 -84m-168 0"/>
+   <rect class="fil3 str3" x="1622" y="1099" width="208" height="190"/>
+   <rect class="fil0 str3" x="1651" y="1124" width="56.235" height="52.9295"/>
+   <rect class="fil0 str3" x="1747" y="1124" width="56.235" height="52.9295"/>
+   <rect class="fil0 str3" x="1699" y="1206" width="57.6962" height="83.3112"/>
+  </g>
+  <g id="_1805097835840">
+   <path class="fil1 str3" d="M155 1025l487 0 -243 -243 -244 243zm244 0m121 -122m-243 0"/>
+   <rect class="fil3 str3" x="249" y="1025" width="300" height="275"/>
+   <rect class="fil0 str3" x="290" y="1060" width="81.2129" height="76.4393"/>
+   <rect class="fil0 str3" x="428" y="1060" width="81.2129" height="76.4393"/>
+   <rect class="fil0 str3" x="359" y="1180" width="83.3232" height="120.316"/>
+  </g>
+ </g>
+</svg>
